@@ -35,6 +35,7 @@ const bestzige = useBestZige();
         ใดๆ</span
       >
 
+      <br />
       <span class="mt-4 text-danger"
         >2. Object Reference คือ
         ประเภทของตัวแปรในการอ้างถึงข้อมูลที่ถูกเก็บไว้ใน memory โดยจะเก็บ
