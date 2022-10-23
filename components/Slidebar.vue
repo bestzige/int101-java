@@ -52,7 +52,7 @@ const setPage = (page: string) => {
           role="button"
           width="50"
           height="50"
-          src="logo.png"
+          src="/logo.png"
           class="rounded mx-auto d-block float-end toggle-button"
           alt="Logo Toggle"
         />
